@@ -1,0 +1,5 @@
+F:\_ CCA\Programming\_ MASTER\Lib\LibCore\bin\Debug\LibCore.dll
+F:\_ CCA\Programming\_ MASTER\Lib\LibCore\bin\Debug\LibCore.pdb
+F:\_ CCA\Programming\_ MASTER\Lib\LibCore\obj\Debug\LibCore.dll
+F:\_ CCA\Programming\_ MASTER\Lib\LibCore\obj\Debug\LibCore.pdb
+F:\_ CCA\Programming\_ MASTER\Lib\LibCore\obj\Debug\LibCore.csprojResolveAssemblyReference.cache
